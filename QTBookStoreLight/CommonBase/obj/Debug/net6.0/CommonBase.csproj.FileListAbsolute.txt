@@ -1,0 +1,12 @@
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\bin\Debug\net6.0\CommonBase.deps.json
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\bin\Debug\net6.0\CommonBase.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\bin\Debug\net6.0\ref\CommonBase.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\bin\Debug\net6.0\CommonBase.pdb
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.csproj.AssemblyReference.cache
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfoInputs.cache
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfo.cs
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.csproj.CoreCompileInputs.cache
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\ref\CommonBase.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\CommonBase\obj\Debug\net6.0\CommonBase.pdb

@@ -1,0 +1,15 @@
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\bin\Debug\net6.0\QTWiederholungNOST.Logic.deps.json
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\bin\Debug\net6.0\QTWiederholungNOST.Logic.dll
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\bin\Debug\net6.0\ref\QTWiederholungNOST.Logic.dll
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\bin\Debug\net6.0\QTWiederholungNOST.Logic.pdb
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\bin\Debug\net6.0\CommonBase.dll
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\bin\Debug\net6.0\CommonBase.pdb
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.csproj.AssemblyReference.cache
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.AssemblyInfoInputs.cache
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.AssemblyInfo.cs
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.csproj.CoreCompileInputs.cache
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.csproj.CopyComplete
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.dll
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\ref\QTWiederholungNOST.Logic.dll
+E:\PRPR\QTWiederholungNOST\QTWiederholungNOST.Logic\obj\Debug\net6.0\QTWiederholungNOST.Logic.pdb

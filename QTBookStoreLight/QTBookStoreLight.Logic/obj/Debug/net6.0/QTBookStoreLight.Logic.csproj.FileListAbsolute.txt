@@ -1,0 +1,15 @@
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\bin\Debug\net6.0\QTBookStoreLight.Logic.deps.json
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\bin\Debug\net6.0\QTBookStoreLight.Logic.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\bin\Debug\net6.0\ref\QTBookStoreLight.Logic.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\bin\Debug\net6.0\QTBookStoreLight.Logic.pdb
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\bin\Debug\net6.0\CommonBase.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\bin\Debug\net6.0\CommonBase.pdb
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.csproj.AssemblyReference.cache
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.AssemblyInfoInputs.cache
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.AssemblyInfo.cs
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.csproj.CoreCompileInputs.cache
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.csproj.CopyComplete
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\ref\QTBookStoreLight.Logic.dll
+C:\Users\flowi\OneDrive\Desktop\QTBookStoreLight\QTBookStoreLight.Logic\obj\Debug\net6.0\QTBookStoreLight.Logic.pdb

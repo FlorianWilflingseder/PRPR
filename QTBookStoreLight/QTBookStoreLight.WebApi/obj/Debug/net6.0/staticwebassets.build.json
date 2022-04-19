@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m961fRKNu3u3g7jI4FepWd+HpTcrjN2EQ9LvKU08Rao=",
+  "Source": "QTBookStoreLight.WebApi",
+  "BasePath": "_content/QTBookStoreLight.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

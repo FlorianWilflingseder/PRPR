@@ -1,0 +1,15 @@
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\bin\Debug\net6.0\QTDrugNost.Logic.deps.json
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\bin\Debug\net6.0\QTDrugNost.Logic.dll
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\bin\Debug\net6.0\ref\QTDrugNost.Logic.dll
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\bin\Debug\net6.0\QTDrugNost.Logic.pdb
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\bin\Debug\net6.0\CommonBase.dll
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\bin\Debug\net6.0\CommonBase.pdb
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.csproj.AssemblyReference.cache
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.AssemblyInfoInputs.cache
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.AssemblyInfo.cs
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.csproj.CoreCompileInputs.cache
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.csproj.CopyComplete
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.dll
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\ref\QTDrugNost.Logic.dll
+E:\PRPR\QTDrugNost\QTDrugNost.Logic\obj\Debug\net6.0\QTDrugNost.Logic.pdb

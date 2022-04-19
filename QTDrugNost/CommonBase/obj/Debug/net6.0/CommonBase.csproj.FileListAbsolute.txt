@@ -1,0 +1,11 @@
+E:\PRPR\QTDrugNost\CommonBase\bin\Debug\net6.0\CommonBase.deps.json
+E:\PRPR\QTDrugNost\CommonBase\bin\Debug\net6.0\CommonBase.dll
+E:\PRPR\QTDrugNost\CommonBase\bin\Debug\net6.0\ref\CommonBase.dll
+E:\PRPR\QTDrugNost\CommonBase\bin\Debug\net6.0\CommonBase.pdb
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\CommonBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfoInputs.cache
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfo.cs
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\CommonBase.csproj.CoreCompileInputs.cache
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\CommonBase.dll
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\ref\CommonBase.dll
+E:\PRPR\QTDrugNost\CommonBase\obj\Debug\net6.0\CommonBase.pdb

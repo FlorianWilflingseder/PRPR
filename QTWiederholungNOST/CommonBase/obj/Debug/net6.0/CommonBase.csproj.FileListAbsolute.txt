@@ -1,0 +1,11 @@
+E:\PRPR\QTWiederholungNOST\CommonBase\bin\Debug\net6.0\CommonBase.deps.json
+E:\PRPR\QTWiederholungNOST\CommonBase\bin\Debug\net6.0\CommonBase.dll
+E:\PRPR\QTWiederholungNOST\CommonBase\bin\Debug\net6.0\ref\CommonBase.dll
+E:\PRPR\QTWiederholungNOST\CommonBase\bin\Debug\net6.0\CommonBase.pdb
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\CommonBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfoInputs.cache
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\CommonBase.AssemblyInfo.cs
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\CommonBase.csproj.CoreCompileInputs.cache
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\CommonBase.dll
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\ref\CommonBase.dll
+E:\PRPR\QTWiederholungNOST\CommonBase\obj\Debug\net6.0\CommonBase.pdb

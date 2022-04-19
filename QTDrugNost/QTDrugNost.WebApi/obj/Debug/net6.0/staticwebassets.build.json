@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iG/ay8uDmCCwAsH7qBK+a6z93a28ZClSIyn8lxvovec=",
+  "Source": "QTDrugNost.WebApi",
+  "BasePath": "_content/QTDrugNost.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
